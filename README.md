@@ -48,4 +48,27 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Pathum312/Pathum312/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
-</div
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=pathum312&" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=pathum312&show_icons=true&locale=en" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pathum312&show_icons=true&locale=en&layout=compact" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://www.buymeacoffee.com/pathum312' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
