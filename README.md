@@ -25,7 +25,7 @@
   <a href="https://linkedin.com/in/pathum-senanayake" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="pinkz.blog" target="_blank">
+  <a href="https://pinkz.blog/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-E6559D?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
   </a>
 </div>
